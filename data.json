@@ -1,131 +1,104 @@
 [
     {
-        "Name": "innoue",
-        "Description": "melonpan",
-        "Icon": "https://contents.oricon.co.jp/upimg/news/2250000/2249791/20220916_225416_p_o_61928740.jpg",
-        "Links": [
+      "Name": "inoue",
+      "Description": "inoinoue",
+      "Icon": "https://pbs.twimg.com/profile_images/1673567713954873344/SQymHa9-_400x400.jpg",
+      "Links": [
+        { "alt": "Twitter", "url": "https://twitter.com/Shiba_ao_" },
+        { "alt": "Github", "url": "https://github.com/kanakanho" },
+        { "alt": "Article", "url": "https://kanakanho-record.vercel.app" },
+        { "alt": "Qiita", "url": "https://qiita.com/kanakanho" },
+        { "alt": "Zenn", "url": "https://zenn.dev/kanakanho" },
+        { "alt": "Youtube", "url": "https://www.youtube.com/@kanakanho" }
+      ],
+      "article": [
         {
-            "alt": "Twitter",
-            "url": "https://twitter.com/"
+          "image": "",
+          "movie": "",
+          "title": "2024",
+          "article": "",
+          "margin": "",
+          "link": ""
         },
         {
-            "alt": "Github",
-            "url": "https://github.com/hiroto09"
+          "image": "https://kanakanho-record.vercel.app/img/munsellcolor.jpeg",
+          "movie": "",
+          "title": "webサイト「munsell-colors」",
+          "article": "個人開発で作った色を見つけるためのwebサイトです。",
+          "margin": "",
+          "link": "https://kanakanho-record.vercel.app/posts/munsellcolors/"
         },
         {
-            "alt": "Qiita",
-            "url": "https://qiita.com/"
+          "image": "",
+          "movie": "",
+          "title": "",
+          "article": "",
+          "margin": "absent",
+          "link": ""
         },
         {
-            "alt": "Zenn",
-            "url": "https://zenn.dev/"
+          "image": "",
+          "movie": "",
+          "title": "2023",
+          "article": "",
+          "margin": "",
+          "link": "https://kanakanho-record.vercel.app/posts/review2023/"
         },
         {
-            "alt": "note",
-            "url": "https://note.com/"
+          "image": "https://kanakanho-record.vercel.app/img/geekcamp-1118/title.png",
+          "movie": "",
+          "title": "プラットフォーム「簡単行列整理くん」",
+          "article": "技育CAMPキャラバン名古屋で最優秀賞をいただいたプロダクトです。",
+          "margin": "",
+          "link": "https://kanakanho-record.vercel.app/posts/geekcamp-1118"
         },
         {
-            "alt": "Youtube",
-            "url": "https://www.youtube.com/"
+          "image": "https://ait-tgs-tyuukanotatujin.vercel.app/img/image.png",
+          "movie": "",
+          "title": "ゲーム 「中華の達人」",
+          "article": "TGS2023に向けて制作したゲームです。",
+          "margin": "",
+          "link": "https://ait-tgs-tyuukanotatujin.vercel.app/"
+        },
+        {
+          "image": "",
+          "movie": "8OoMQy0keGE",
+          "title": "アプリ 「wisdom Tree」",
+          "article": "技育展2023に向けて開発したアプリです。",
+          "margin": "",
+          "link": "https://kanakanho-record.vercel.app/posts/wisdom-tree"
+        },
+        {
+          "image": "https://kanakanho-record.vercel.app/img/geekcamp-0617/paper_app_title.png",
+          "movie": "",
+          "title": "アプリ 「かみあぷり」",
+          "article": "技育CAMPキャラバン 福岡 にて最優秀賞、技育CAMP アドバンス にて 企業賞(MIXI賞)を受賞したアプリです。",
+          "margin": "",
+          "link": "https://kanakanho-record.vercel.app/posts/geekcamp-0617"
+        },
+        {
+          "image": "",
+          "movie": "",
+          "title": "",
+          "article": "",
+          "margin": "absent",
+          "link": ""
+        },
+        {
+          "image": "",
+          "movie": "",
+          "title": "2022",
+          "article": "",
+          "margin": "",
+          "link": ""
+        },
+        {
+          "image": "https://pbs.twimg.com/media/Fk86-V_aUAA0ZIB?format=jpg&name=4096x4096",
+          "movie": "",
+          "title": "イラスト 「星空のダンスフロア」",
+          "article": "illustrator & Photoshop",
+          "margin": ""
         }
-        ],
-        "article": [
-            {
-                "image": "",
-                "movie": "",
-                "title": "大きなタイトル",
-                "article": "小さな補足",
-                "margin": "",
-                "link": ""
-            },
-            {
-                "image": "https://kanakanho-record.vercel.app/img/evening.jpg",
-                "movie": "",
-                "title": "画像の添付",
-                "article": "",
-                "margin": "",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "7j3M3-k7X3g",
-                "title": "動画の添付",
-                "article": "",
-                "margin": "",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "リンクもできるよ",
-                "article": "",
-                "margin": "",
-                "link": "https://ja.react.dev/blog/2023/03/16/introducing-react-dev"
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "",
-                "margin": "absent",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "空白を開ける",
-                "article": "",
-                "margin": "",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "",
-                "margin": "absent",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "小",
-                "margin": "",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "",
-                "margin": "low",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "中",
-                "margin": "",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "",
-                "margin": "high",
-                "link": ""
-            },
-            {
-                "image": "",
-                "movie": "",
-                "title": "",
-                "article": "大",
-                "margin": "",
-                "link": ""
-            }
-        ]  
+      ]
     }
   ]
